@@ -1,4 +1,4 @@
-## For English people, please, see below 🔠
+## For English please see below 🔠
 
 - 🙋‍♀️ Uma breve introdução - Essa organização é apenas para diversão, estudo e para estar mais próximo de projetos reais; 
 - 🌈 Diretrizes de contribuição - Todo mundo pode ajudar, com linhas de código ou apenas com dicas sobre desenvolvimento ou design;
